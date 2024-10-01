@@ -1,3 +1,3 @@
 export default function Home() {
-	return <div>learning git </div>;
+	return <div>Now let's Start </div>;
 }
